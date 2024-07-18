@@ -1,0 +1,42 @@
+{
+    "en": {
+    "aboutMe": "About Me",
+    "skills": "Skills",
+    "education": "Education",
+    "contacts": "Contacts",
+    "language": "ENG",
+    "firstTabTitle": "About me",
+    "firstTabContent": "Hello, I am a freshman at the International University of Information Technology. I live in Almaty and currently work at QazaqRepublic, and I also worked at the employment center, advised people. I have worked with applications such as Microsoft Word, Excel, Python during university classes, and I am currently studying JS.",
+    "secondTabTitle": "Skills",
+    "secondTabContent": "I have experience working with many languages, but little experience, I wrote games in Unity3D with the C# language for scripts and naturally modeled in Blender, wrote a game for a college thesis. I know Python with some libraries such as aiogram and beautifull-soup. At the moment, I am actively studying Js with the Reactos framework. In the future, I want to study Node Js. I have little experience with PostgreSQL and also with PHP",
+    "thirdTabTitle": "Education",
+    "thirdTabContent": "I currently have a specialized secondary education with incomplete higher education. He received a secondary specialized education at THE ALMATY STATE COLLEGE OF SERVICE AND TECHNOLOGY. I will get my higher education at the International University of Information Technology. I had an average grade of B+ (88-90) and graduated with a blue diploma.",
+    "mainDivName": "Madi Nurly",
+    "mainDivAge": "19 y.o",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "yourMessage": "Your Message",
+    "sendMessage": "Send Message",
+    "resume": "Resume"
+    },
+    "ru": {
+    "aboutMe": "Обо мне",
+    "skills": "Навыки",
+    "education": "Образование",
+    "contacts": "Контакты",
+    "language": "РУС",
+    "firstTabTitle": "Обо мне",
+    "firstTabContent": "Здравствуйте, я первокурсник Международного университета информационных технологий. Живу в городе Алматы и работаю на данный момент в QazaqRepublic а также я работал в центре занятости, консультировал людей. Я работал с такими приложениями, как Microsoft Word, Excel, Python во время занятий в университете, и в данный момент я изучаю JS.",
+    "secondTabTitle": "Навыки",
+    "secondTabContent": "У меня есть опыт работы с многим языками но малый опыт, я писал игры на Unity3D с языком C# для скриптов и естественно моделировал в Blender, написал игру для дипломной работы в колледже. Знаю Python с некоторыми библеотеками такие как aiogram и beautifull-soup. На данный момент активно изучаю Js с фреймворком ReactJs в дальнейшем хочу изучить NodeJs. Есть малый опыт с работой PostgreSQL а также с PHP",
+    "thirdTabTitle": "Образование",
+    "thirdTabContent": "В настоящее время я имею среднее специальное образование с незаконченным высшим образованием. В АЛМАТИНСКОМ ГОСУДАРСТВЕННОМ КОЛЛЕДЖЕ СЕРВИСА И ТЕХНОЛОГИЙ получил среднее специальное образование. Высшее образование я получу в Международном университете информационных технологий. У меня был средний балл B+ (88-90) закончил с синим дипломом. ",
+    "mainDivName": "Мади Нурлы",
+    "mainDivAge": "19 лет",
+    "yourName": "Ваше имя",
+    "yourEmail": "Ваш email",
+    "yourMessage": "Ваше сообщение",
+    "sendMessage": "Отправить сообщение",
+    "resume": "Резюме"
+    }
+}

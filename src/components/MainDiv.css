@@ -1,0 +1,32 @@
+.mainInfoDiv{
+    display: inline-block;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.profile__avatar{
+    height: 600px;
+    width: 600px;
+    border-radius: 50px;
+    margin: 20px 10px 0px 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.main__info{
+    color: #312051;
+    height: 100px;
+    width: 400px;
+    border-radius: 50px;
+    margin: 40px 150px;
+}
+
+.img__item{
+    border-radius: 50px;
+}
+
+body.light .main__info{
+    color: #f0c38e;
+}
